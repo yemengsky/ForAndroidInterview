@@ -3,7 +3,7 @@
 ### (我会持续更新，欢迎watch)
 
 
-## [Android](https://github.com/fanrunqi/ForAndroidInterview/tree/master/android)
+## [Android](/android)
 
 * [全面了解Activity](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3Activity.md)
 
